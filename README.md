@@ -42,6 +42,7 @@ I'm a student at **Blue Hills Regional Technical School** who likes shipping rea
 | **Computer Tech Dashboard** (`WebServer`) | Classroom dashboard with student/teacher workspaces, tickets, polls, and a PowerShell HTTPS API | React, Vite, Tailwind, PowerShell |
 | **SoccerApp** | iOS app with Live Activity widgets | Swift, Xcode |
 | **Local business sites** | Clean sample sites and outreach for shops near Braintree · fully automated by SpaceXSI Grokbot | HTML, CSS, JS |
+| **Scheduling App** | A simple and easy to use app designed in mind for parents who sons or daughters have autism. This schedule can be managed by a separate Apple ID using iCloud services. | Swift, Xcode |
 
 > SoccerApp and WebServer are private school/project repos, so they're not linked publicly here.
 
