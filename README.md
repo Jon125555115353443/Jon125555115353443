@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Heading Banner -->
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://vercel.app" alt="Typing SVG" />
 
   <p align="center">
     A software engineer focused on building sleek web applications, solving complex problems, and keeping code minimal.
@@ -45,7 +45,3 @@ These dynamic cards automatically update every time I commit code:
 *   **Learning:** Exploring cloud architecture and systems scalability.
 *   **Collaboration:** Open to contributing to high-performance open-source projects.
 *   **Architecture:** Strict adherence to clean architecture, fast loading times, and dark mode design.
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
