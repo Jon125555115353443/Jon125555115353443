@@ -16,12 +16,11 @@
 
 ### About me
 
-I'm a student at **Blue Hills Regional Technical School** who likes shipping real tools people can use: classroom dashboards, iOS apps, and clean websites for local businesses.
+I'm a student at **Blue Hills Regional Technical School**
 
 - Currently focused on web UIs, PowerShell services, and Swift for Apple platforms
 - Building modern, professional sites for small businesses around Braintree
 - Aspiring **Palantir 2027 Intern**
-- Always open to learning something new and shipping the next project
 
 ---
 
