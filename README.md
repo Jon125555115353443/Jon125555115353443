@@ -2,6 +2,9 @@
 <p align="center">
   Blue Hills Tech student · Braintree, MA · Building apps, dashboards, and websites
 </p>
+<p align="center">
+  <strong>Aspiring Palantir 2027 Intern</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/Jon125555115353443">
@@ -17,6 +20,7 @@ I'm a student at **Blue Hills Regional Technical School** who likes shipping rea
 
 - Currently focused on web UIs, PowerShell services, and Swift for Apple platforms
 - Building modern, professional sites for small businesses around Braintree
+- Aspiring **Palantir 2027 Intern**
 - Always open to learning something new and shipping the next project
 
 ---
@@ -37,7 +41,7 @@ I'm a student at **Blue Hills Regional Technical School** who likes shipping rea
 | :------ | :--------- | :---- |
 | **Computer Tech Dashboard** (`WebServer`) | Classroom dashboard with student/teacher workspaces, tickets, polls, and a PowerShell HTTPS API | React, Vite, Tailwind, PowerShell |
 | **SoccerApp** | iOS app with Live Activity widgets | Swift, Xcode |
-| **Local business sites** | Clean sample sites and outreach for shops near Braintree | HTML, CSS, JS |
+| **Local business sites** | Clean sample sites and outreach for shops near Braintree · fully automated by SpaceXSI Grokbot | HTML, CSS, JS |
 
 > SoccerApp and WebServer are private school/project repos, so they're not linked publicly here.
 
