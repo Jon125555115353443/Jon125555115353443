@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jon125555115353443/Jon125555115353443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Heading Banner -->
+  <img src="https://demolab.com" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+  <p align="center">
+    A software engineer focused on building sleek web applications, solving complex problems, and keeping code minimal.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="https://github.com"><img src="https://shields.io" alt="Portfolio" /></a>
+    <a href="https://github.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://shields.io" alt="Email" /></a>
+  </p>
+
+</div>
+
+---
+
+### Tech Stack
+
+Below are the tools and technologies I use to bring ideas to life, styled in a dark monochrome grid:
+
+<p align="center">
+  <img src="https://skillicons.dev" alt="My Skills" />
+</p>
+
+---
+
+### GitHub Analytics
+
+These dynamic cards automatically update every time I commit code:
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+---
+
+### Recent Activity & Philosophy
+
+*   **Current Focus:** Building responsive user interfaces and optimizing backend workflows.
+*   **Learning:** Exploring cloud architecture and systems scalability.
+*   **Collaboration:** Open to contributing to high-performance open-source projects.
+*   **Architecture:** Strict adherence to clean architecture, fast loading times, and dark mode design.
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
