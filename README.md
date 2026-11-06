@@ -50,8 +50,8 @@ I'm a student at **Blue Hills Regional Technical School** who likes shipping rea
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jon125555115353443&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon125555115353443&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Jon125555115353443&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jon125555115353443&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
