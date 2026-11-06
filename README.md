@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jeffrey</h1>
+ <h1 align="center">Hey, I'm Jeffrey</h1>
 <p align="center">
   Blue Hills Tech student · Braintree, MA · Building apps, dashboards, and websites
 </p>
@@ -43,8 +43,6 @@ I'm a student at **Blue Hills Regional Technical School**
 | **Local business sites** | Clean sample sites and outreach for shops near Braintree · fully automated by SpaceXSI Grokbot | HTML, CSS, JS |
 | **Scheduling App** | A simple and easy to use app designed in mind for parents who sons or daughters have autism (Because I have a brother who has autism). This schedule can be managed by a separate Apple ID using iCloud services. It also has a system where you can import / export into Google/Apple Calendar. | Swift, Xcode |
 
-> SoccerApp and WebServer are private school/project repos, so they're not linked publicly here.
-
 ---
 
 ### GitHub stats
@@ -57,5 +55,5 @@ I'm a student at **Blue Hills Regional Technical School**
 ---
 
 <p align="center">
-  Thanks for stopping by — feel free to check out my public repos or reach out if you want to collaborate.
+  Made with ❤️ by Jeffrey
 </p>
