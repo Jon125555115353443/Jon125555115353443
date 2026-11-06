@@ -41,7 +41,3 @@
 * **Learning:** Exploring cloud architecture and systems scalability.
 * **Collaboration:** Open to contributing to high-performance open-source projects.
 * **Architecture:** Strict adherence to clean architecture, fast loading times, and dark mode design.
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
